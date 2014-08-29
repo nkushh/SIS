@@ -1,0 +1,14 @@
+body{ background: #FFF; font-size: 15px ;  }
+
+p { text-align: center;}
+
+.print { text-align: left;   width: 930px; }
+
+.print td, .print th { padding: 5px 0; border: 1px solid #DDD; }
+
+.report_header { text-align: center; margin: 20px auto; clear: both; width: 950px; }
+
+h4{ text-align: center; margin: 0 auto; font-weight: normal; font-size: 12px; }
+
+h3 { text-align: center; margin: 0 auto; font-size: 25px; }
+
